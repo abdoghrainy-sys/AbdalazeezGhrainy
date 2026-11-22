@@ -1,61 +1,72 @@
-<!-- ```
- __      __  ______  ____    ____    __  __  ____
-/\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-\ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
- \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-  \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-   \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-    '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
+<div align="center">
 
-``` -->
+# Hi, I'm Abdulaziz Ghoriani 👋
 
-<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
+**Full Stack Developer in the making** 🚀
 
-<p align="center"><i>(drawing by me)</i></p>
+<i>Learning by building, one project at a time.</i>
 
-<br /> <br />
-
-
-#### Read the latest posts from my [blog](https://blog.khaleelgibran.com)
-
-<!--START_SECTION:feed-->
-* [Who runs the Arch Linux mirror in the UAE?](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;arch-mirror-uae&#x2F;)
-* [Challenge #2: Unique ID Generation](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;gossip-glomers-unique-ids&#x2F;)
-* [I made a Figma plugin and it was harder than I expected](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;chromakey&#x2F;)
-* [My greatest contribution to open-source, yet.](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;greatest-oss-contribution&#x2F;)
-* [你好, my LED strip is sending data to China](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;led-light-to-china&#x2F;)
-<!--END_SECTION:feed-->
+</div>
 
 <br />
 
-#### Or check out cool stuff from dev.to!
+## 👨‍💻 About Me
 
-<!-- BLOG-POST-LIST:START -->
-- [How to create and publish your own Vue component libraries &lpar;actually works I swear&rpar;](https://dev.to/khalby786/how-to-create-and-publish-your-own-vue-component-libraries-actually-works-i-swear-15ol)
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-<!-- BLOG-POST-LIST:END -->
+- 🌱 Currently learning **Full Stack Web Development**
+- 🔨 Building real projects to practice what I learn
+- 📚 Focused on: HTML, CSS, JavaScript, and the modern web stack
+- 💬 Ask me about: web development, learning to code
+- 🌍 Based in: <!-- TODO: your city / country -->
 
 <br />
 
-#### My weekly development breakdown
+## 🛠️ Tech Stack
 
-<!--START_SECTION:waka-->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-```txt
-TypeScript   1 hr 49 mins          █████████████░░░░░░░░░░░░   51.47 %
-Markdown     1 hr 20 mins          █████████▓░░░░░░░░░░░░░░░   38.04 %
-Python       11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-YAML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-```
-
-<!--END_SECTION:waka-->
+<!-- Add more as you learn them, for example:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+-->
 
 <br />
 
-<details><summary>Kewl badges</summary>
-<img src="https://github-profile-trophy.vercel.app/?username=khalby786&theme=nord&no-frame=true&margin-w=10&column=10" />
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌿 [Salsabeel Nursery](https://github.com/YOUR_USERNAME/YOUR_REPO) | Arabic RTL plant nursery website with a product catalog, shopping cart, and WhatsApp ordering | HTML, CSS, JavaScript |
+| 🚧 Your next project | Short description here | Tech used |
+
+<br />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<br />
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+<br />
+
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=nord&no-frame=true&margin-w=10&column=7" alt="GitHub trophies" />
 </details>
