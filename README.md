@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abdulaziz Ghoriani 👋
+# Hi, I'm Abdalazeez Ghrainy 👋
 
 **Full Stack Developer in the making** 🚀
 
